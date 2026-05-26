@@ -26,4 +26,7 @@ The project will be implemented using open-source EDA tools and the GF180MCU tec
 - Phung Cheng Fei
 - Jimena Regina Martínez Cano
 
+Documentation
+https://docs.google.com/presentation/d/10RPRgF1dIjjM-1NXyKvNgMu_pUJvOWBL/edit?usp=sharing&ouid=112013730550081722695&rtpof=true&sd=true
+
 
