@@ -31,4 +31,16 @@ Documentation
 - Full schematic slildes: https://docs.google.com/presentation/d/1KEl6AScZBwLvk8Lb9h6sAGF0BZeuGhGU/edit?usp=sharing&ouid=112013730550081722695&rtpof=true&sd=true
 - Schematic video: https://drive.google.com/file/d/1mXYUIqWa644d6U6pAOzVR0RPvlr_0ty-/view?usp=drive_link
 
+# Schematic Links
+
+-Bandgap Reference.sch:
+https://drive.google.com/file/d/1O2_WYpGsk8sehf26QVRTAUo4Udb0YF5F/view?usp=sharing
+-Bandgap Reference.sym:
+https://drive.google.com/file/d/1KRB4IrsKPWfONkexla3cyUuRDZJOxpvS/view?usp=sharing
+-tb bandgap reference.sch :
+https://drive.google.com/file/d/1z00cMQSl-9ZxCl3TGp1GFvSWkPNVkYlR/view?usp=sharing
+-tb bandgap rise time.sch :
+https://drive.google.com/file/d/1mMDMm44zU-Q4C6UYABm4A5SrkB61avRt/view?usp=sharing
+-tb bandgap tempsweep.sch:
+https://drive.google.com/file/d/1oL5iB7044WX0SLwtiHL2kH6rke-YWpRC/view?usp=sharing
 
