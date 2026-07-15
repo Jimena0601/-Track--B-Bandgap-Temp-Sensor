@@ -27,8 +27,8 @@ The project will be implemented using open-source EDA tools and the GF180MCU tec
 - Jimena Regina Martínez Cano
 
 Documentation
-Proposal slides: https://docs.google.com/presentation/d/10RPRgF1dIjjM-1NXyKvNgMu_pUJvOWBL/edit?usp=sharing&ouid=112013730550081722695&rtpof=true&sd=true
-Full schematic slildes: https://docs.google.com/presentation/d/1KEl6AScZBwLvk8Lb9h6sAGF0BZeuGhGU/edit?usp=sharing&ouid=112013730550081722695&rtpof=true&sd=true
-Schematic video: https://drive.google.com/file/d/1mXYUIqWa644d6U6pAOzVR0RPvlr_0ty-/view?usp=drive_link
+- [Proposal Slides: ] https://docs.google.com/presentation/d/10RPRgF1dIjjM-1NXyKvNgMu_pUJvOWBL/edit?usp=sharing&ouid=112013730550081722695&rtpof=true&sd=true
+- Full schematic slildes: https://docs.google.com/presentation/d/1KEl6AScZBwLvk8Lb9h6sAGF0BZeuGhGU/edit?usp=sharing&ouid=112013730550081722695&rtpof=true&sd=true
+- Schematic video: https://drive.google.com/file/d/1mXYUIqWa644d6U6pAOzVR0RPvlr_0ty-/view?usp=drive_link
 
 
