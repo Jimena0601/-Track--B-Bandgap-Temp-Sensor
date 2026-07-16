@@ -40,3 +40,4 @@ Documentation
 - tb bandgap tempsweep.sch: https://drive.google.com/file/d/1oL5iB7044WX0SLwtiHL2kH6rke-YWpRC/view?usp=sharing
 - decimator .v: https://drive.google.com/file/d/1S1VuC_Rwo0CB5oQAFM0QwiOF6ZHMSiQO/view?usp=sharing
 - testbench decimator: https://drive.google.com/file/d/1Q6Nc1Hd3Izil85QdrMROrNKEHfA0EX1s/view?usp=sharing
+- input bitsctream file for the testbench: https://drive.google.com/file/d/1u0LnbfbzXNyGFCG8NwB2w3C70OpS0M01/view?usp=sharing
