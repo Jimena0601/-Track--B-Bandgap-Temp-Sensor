@@ -1,0 +1,96 @@
+magic
+tech gf180mcuD
+magscale 1 5
+timestamp 1787054507
+<< checkpaint >>
+rect -782 1030 1496 1150
+rect -782 -2060 2488 1030
+rect 210 -2180 2488 -2060
+<< error_s >>
+rect 588 1031 593 1054
+rect 616 1031 622 1037
+rect 1084 971 1089 994
+rect 1112 971 1118 977
+rect 484 104 500 154
+rect 340 61 345 84
+rect 368 61 374 67
+rect 236 -320 252 -315
+rect 218 -366 252 -320
+rect 100 -385 115 -377
+rect 92 -408 97 -403
+rect 120 -408 126 -403
+rect 137 -924 149 -918
+rect 218 -960 253 -366
+rect 317 -954 328 -948
+rect 385 -954 397 -948
+rect 218 -1011 252 -960
+rect 340 -994 345 -971
+rect 484 -990 501 104
+rect 709 90 725 94
+rect 709 71 744 90
+rect 714 44 748 71
+rect 708 20 748 44
+rect 980 44 996 94
+rect 565 -984 576 -978
+rect 633 -984 645 -978
+rect 218 -1030 248 -1011
+rect 484 -1041 500 -990
+rect 588 -1024 593 -1001
+rect 714 -1020 749 20
+rect 836 1 841 24
+rect 864 1 870 7
+rect 813 -1014 824 -1008
+rect 881 -1014 893 -1008
+rect 714 -1071 748 -1020
+rect 836 -1054 841 -1031
+rect 980 -1050 997 44
+rect 1061 -1044 1072 -1038
+rect 1129 -1044 1141 -1038
+rect 714 -1090 744 -1071
+rect 980 -1101 996 -1050
+rect 1084 -1084 1089 -1061
+<< metal1 >>
+rect 0 0 100 100
+rect 0 -200 100 -100
+rect 0 -400 100 -300
+rect 0 -600 100 -500
+rect 0 -800 100 -700
+rect 0 -1000 100 -900
+use pfet_03v3_FXKKJA  M1
+timestamp 0
+transform 1 0 605 0 1 15
+box -139 -1105 139 1105
+use nfet_03v3_3BU6TB  M2
+timestamp 0
+transform 1 0 853 0 1 -515
+box -139 -605 139 605
+use nfet_03v3_JG6M3E  M3
+timestamp 0
+transform 1 0 1101 0 1 -45
+box -139 -1105 139 1105
+use pfet_03v3_CWVCNK  M4
+timestamp 0
+transform 1 0 1349 0 1 -575
+box -139 -605 139 605
+use nfet_03v3_Y225VR  M7
+timestamp 0
+transform 1 0 109 0 1 -675
+box -139 -355 139 355
+use pfet_03v3_CWVCNK  M9
+timestamp 0
+transform 1 0 357 0 1 -455
+box -139 -605 139 605
+<< labels >>
+flabel metal1 0 0 100 100 0 FreeSans 800 0 0 0 AVDD
+port 0 nsew
+flabel metal1 0 -200 100 -100 0 FreeSans 800 0 0 0 +VREF
+port 1 nsew
+flabel metal1 0 -400 100 -300 0 FreeSans 800 0 0 0 vin_dac
+port 2 nsew
+flabel metal1 0 -600 100 -500 0 FreeSans 800 0 0 0 out
+port 3 nsew
+flabel metal1 0 -800 100 -700 0 FreeSans 800 0 0 0 AGND
+port 4 nsew
+flabel metal1 0 -1000 100 -900 0 FreeSans 800 0 0 0 -VREF
+port 5 nsew
+<< end >>
