@@ -2,21 +2,21 @@
 
 project:
   title: "Bandgap-Temp-Sensor"
-  team: "B23 TempX"
+  team: "B23 - TempX"
   discord: "jime06"
   description: "Bandgap temperature sensor in GF180MCU"
   lvs_config: "lvs_config.json"
 
 # Preliminary pin list from the Team B23 TempX project specification.
 pins:
-  - name: "AVDD"
-    io_type: power
   - name: "AGND"
+    io_type: ground
+  - name: "AVDD"
     io_type: power
   - name: "DVDD"
     io_type: power
   - name: "DGND"
-    io_type: power
+    io_type: ground
   - name: "CLK"
     io_type: input_cmos
   - name: "RESET"
@@ -34,7 +34,6 @@ pins:
   - name: "DATA_VALID"
     io_type: output_cmos
   - name: "TEST_ANALOG"
-    io_type: analog
-    secondary_esd: true
+    io_type: output_cmos
   - name: "TEST_OUT"
     io_type: output_cmos
