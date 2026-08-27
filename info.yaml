@@ -1,0 +1,40 @@
+# Chipathon 2026 project configuration for Team B23 TempX.
+
+project:
+  title: "Bandgap-Temp-Sensor"
+  team: "B23 TempX"
+  discord: "jime06"
+  description: "Bandgap temperature sensor in GF180MCU"
+  lvs_config: "lvs_config.json"
+
+# Preliminary pin list from the Team B23 TempX project specification.
+pins:
+  - name: "AVDD"
+    io_type: power
+  - name: "AGND"
+    io_type: power
+  - name: "DVDD"
+    io_type: power
+  - name: "DGND"
+    io_type: power
+  - name: "CLK"
+    io_type: input_cmos
+  - name: "RESET"
+    io_type: input_cmos
+  - name: "ENABLE"
+    io_type: input_cmos
+  - name: "TEST_SEL[2]"
+    io_type: input_cmos
+  - name: "TEST_SEL[1]"
+    io_type: input_cmos
+  - name: "TEST_SEL[0]"
+    io_type: input_cmos
+  - name: "DATA_OUT"
+    io_type: output_cmos
+  - name: "DATA_VALID"
+    io_type: output_cmos
+  - name: "TEST_ANALOG"
+    io_type: analog
+    secondary_esd: true
+  - name: "TEST_OUT"
+    io_type: output_cmos
