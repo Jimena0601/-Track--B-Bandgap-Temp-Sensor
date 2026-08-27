@@ -3,8 +3,8 @@
 	"INCLUDE_CONFIGS": [
 		"$LVS_ROOT/tech/$PDK/lvs_config.base.json"
 	],
-	"TOP_SOURCE": "B23_TempX_DryRun_Top",
-	"TOP_LAYOUT": "B23_TempX_DryRun_Top",
+	"TOP_SOURCE": "B23_TEMPX_DryRun_Top",
+	"TOP_LAYOUT": "B23_TEMPX_DryRun_Top",
 	"EXTRACT_FLATGLOB": [
 		""
 	],
