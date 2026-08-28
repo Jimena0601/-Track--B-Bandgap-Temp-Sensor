@@ -30,10 +30,10 @@ pins:
   - name: "TEST_SEL[0]"
     io_type: input_cmos
   - name: "DATA_OUT"
-    io_type: output_cmos
+    io_type: input_cmos
   - name: "DATA_VALID"
     io_type: output_cmos
   - name: "TEST_ANALOG"
-    io_type: output_cmos
+    io_type: input_cmos
   - name: "TEST_OUT"
-    io_type: output_cmos
+    io_type: input_cmos
