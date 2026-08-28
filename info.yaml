@@ -35,5 +35,8 @@ pins:
     io_type: bidirectional
   - name: TEST_ANALOG
     io_type: bidirectional
+     secondary_esd: false
   - name: TEST_OUT
     io_type: bidirectional
+    secondary_esd: false
+    
