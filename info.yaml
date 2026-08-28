@@ -23,11 +23,11 @@ pins:
     io_type: input_cmos
   - name: ENABLE
     io_type: input_cmos
-  - name: TEST_SEL[2]
+  - name: TEST_SEL_2
     io_type: input_cmos
-  - name: TEST_SEL[1]
+  - name: TEST_SEL_1
     io_type: input_cmos
-  - name: TEST_SEL[0]
+  - name: TEST_SEL_0
     io_type: input_cmos
   - name: DATA_OUT
     io_type: bidirectional
