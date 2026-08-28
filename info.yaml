@@ -9,31 +9,31 @@ project:
 
 # Preliminary pin list from the Team B23 TempX project specification.
 pins:
-  - name: "AGND"
+  - name: AGND
     io_type: ground
-  - name: "AVDD"
+  - name: AVDD
     io_type: power
-  - name: "DVDD"
+  - name: DVDD
     io_type: power
-  - name: "DGND"
+  - name: DGND
     io_type: ground
-  - name: "CLK"
+  - name: CLK
     io_type: input_cmos
-  - name: "RESET"
+  - name: RESET
     io_type: input_cmos
-  - name: "ENABLE"
+  - name: ENABLE
     io_type: input_cmos
-  - name: "TEST_SEL[2]"
+  - name: TEST_SEL[2]
     io_type: input_cmos
-  - name: "TEST_SEL[1]"
+  - name: TEST_SEL[1]
     io_type: input_cmos
-  - name: "TEST_SEL[0]"
+  - name: TEST_SEL[0]
     io_type: input_cmos
-  - name: "DATA_OUT"
+  - name: DATA_OUT
     io_type: bidirectional
-  - name: "DATA_VALID"
+  - name: DATA_VALID
     io_type: bidirectional
-  - name: "TEST_ANALOG"
+  - name: TEST_ANALOG
     io_type: bidirectional
-  - name: "TEST_OUT"
+  - name: TEST_OUT
     io_type: bidirectional
