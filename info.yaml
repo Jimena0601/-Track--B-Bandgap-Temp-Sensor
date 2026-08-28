@@ -30,10 +30,11 @@ pins:
   - name: "TEST_SEL[0]"
     io_type: input_cmos
   - name: "DATA_OUT"
-    io_type: input_cmos
+    io_type: bidirectional
   - name: "DATA_VALID"
-    io_type: output_cmos
+    io_type: bidirectional
   - name: "TEST_ANALOG"
-    io_type: input_cmos
+    io_type: bidirectional
+    secondary_esd: true
   - name: "TEST_OUT"
-    io_type: input_cmos
+    io_type: bidirectional
